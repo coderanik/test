@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .repo {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .repo a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .repo a:hover {
+    text-decoration: underline;
+  }
+  
