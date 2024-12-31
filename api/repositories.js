@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 module.exports = async (req, res) => {
-  const username = 'your-username'; // Replace with the GitHub username
+  const username = 'coderanik'; // Replace with the GitHub username
   const apiUrl = `https://api.github.com/users/${username}/repos?sort=created&direction=desc`;
 
   try {
